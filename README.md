@@ -5,9 +5,7 @@
 
 * parcel src/index.html
 
-* parcel build src/index.html --no-minify --public-url
-
-* https://xxx.github.io/nav-1/dist/
+* parcel build src/index.html --no-minify --public-url https://xxx.github.io/nav-1/dist/
 或
 * parcel build src/index.html --no-minify --public-url ./
 ```
