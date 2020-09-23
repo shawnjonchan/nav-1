@@ -25,7 +25,12 @@ img {
 
 /* style */
 body {
-  background: #eee;
+ background-image:url(./images/bgd.jpg);
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-attachment: fixed; 
+ background-size: cover;
+  /* background: #eee; */
 }
 .globalHeader {
   margin: 20px;
